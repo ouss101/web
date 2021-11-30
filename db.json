@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nom": "computer",
+      "price": 5425,
+      "quantite": 73
+    },
+    {
+      "id": 2,
+      "nom": "phonr",
+      "price": 7515,
+      "quantity": 74
+    }
+  ]
+}
